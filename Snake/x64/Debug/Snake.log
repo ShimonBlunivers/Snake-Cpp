@@ -1,0 +1,6 @@
+﻿  Snake.cpp
+D:\Programming\C++\Snake\Snake\Snake.cpp(41,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Programming\C++\Snake\Snake\Snake.cpp(56,28): warning C4101: 'tail_location': unreferenced local variable
+D:\Programming\C++\Snake\Snake\Snake.cpp(217,20): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+D:\Programming\C++\Snake\Snake\Snake.cpp(261,25): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+  Snake.vcxproj -> D:\Programming\C++\Snake\x64\Debug\Snake.exe
